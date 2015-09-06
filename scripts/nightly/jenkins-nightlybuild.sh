@@ -108,10 +108,10 @@ git clone https://github.com/Project-Pier/ProjectPier-Theme-Greenbase.git ./them
 rm -rf ./theme-greenbase/.git
 cp -R ./theme-greenbase/* ./core/
 
-# Checkout the Bootstrap Theme and copy to the core
-git clone https://github.com/Project-Pier/ProjectPier-Theme-Bootstrap.git ./theme-bootstrap
-rm -rf ./theme-bootstrap/.git
-cp -R ./theme-bootstrap/* ./core/
+# Checkout the Bootstrapp Theme and copy to the core
+git clone https://github.com/Project-Pier/ProjectPier-Theme-Bootstrapp.git ./theme-bootstrap
+rm -rf ./theme-bootstrapp/.git
+cp -R ./theme-bootstrapp/* ./core/
 
 # Checkout the Reminders Plugin and copy to the core
 git clone https://github.com/Project-Pier/ProjectPier-Plugin-Reminders.git ./plugin-reminders
